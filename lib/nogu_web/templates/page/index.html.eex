@@ -1,0 +1,12 @@
+<section class="phx-hero">
+  <h1><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h1>
+  
+</section>
+
+<section class="row">
+  <article class="column">
+      <a href="/git"> git dummy </a>
+      <br>
+      <a href="/pacman"> pacman </a>
+  </article>
+</section>
